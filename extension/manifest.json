@@ -1,0 +1,21 @@
+{
+  "name": "DotA 2 Search",
+  "description": "Adds an 'd2' Omnibox command.",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "omnibox": {
+    "keyword": "d2"
+  },
+  "icons": {
+    "16": "icons/icon_128.png",
+    "32": "icons/icon_48.png",
+    "48": "icons/icon_32.png",
+    "128": "icons/icon_16.png"
+  }
+}

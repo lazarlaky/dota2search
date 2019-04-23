@@ -1,6 +1,6 @@
 ﻿# Dota 2 Search
 
-An Chrome Extension that adds an 'd2' omnibox command for searching the Dota 2 heroes and items.
+An Chrome Extension that adds an 'd22' omnibox command for searching the Dota 2 heroes and items.
 
 <img src="art/screenshot.png">
 
